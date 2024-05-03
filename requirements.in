@@ -1,6 +1,12 @@
 transformers
 langchain
+langchainhub
+langchain-openai
+langgraph
 databricks-vectorsearch
+databricks-sdk
 mlflow
 edgartools
 pandas
+lark
+duckduckgo-search
