@@ -1,5 +1,13 @@
 # Generative AI World Cup
 
+## Notebooks
+
+1. [Data Acquisition](01-data-preparation-index/01-data-acquisition.ipynb)
+2. [Data Ingestion and Indexing](01-data-preparation-index/02-data-ingestion-and-indexing.ipynb)
+3. [Self-Query RAG Chatbot](02-rag-chatbot-deployment/03-self-query-rag-chatbot.ipynb)
+4. [Agentic Self-Query RAG Chatbot](02-rag-chatbot-deployment/04-agentic-self-query-rag.ipynb)
+5. [Chatbot Deployment](02-rag-chatbot-deployment/05-rag-deployment.ipynb)
+
 ## Getting Started
 
 1. Install venv ``python -m venv venv`
