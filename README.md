@@ -1,4 +1,4 @@
-# Generative AI World Cup
+# Generative AI World Cup - Financial Agentic RAG Chatbot
 
 ## Notebooks
 
